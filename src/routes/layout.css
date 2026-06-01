@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@import '@skeletonlabs/skeleton';
+@import '@skeletonlabs/skeleton-svelte';
+@import '@skeletonlabs/skeleton/themes/vox';
+
+
+body{
+    @apply bg-primary-800;
+    
+}
